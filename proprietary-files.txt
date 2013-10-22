@@ -1,0 +1,82 @@
+# Configuration files
+etc/agps_rm
+
+# Executable files
+bin/akmd
+bin/charging
+bin/hci_qcomm_init
+bin/mm-qcamera-daemon
+bin/mpdecision
+bin/netmgrd
+bin/netsharing
+bin/qmuxd
+bin/rmt_storage
+bin/thermald
+
+
+# Audio
+lib/libacdbloader.so
+lib/libaudcal.so
+lib/libcsd-client.so
+
+# Camera
+lib/libchromatix_s5k3h2yx_default_video.so
+lib/libchromatix_s5k3h2yx_hdr.so
+lib/libchromatix_s5k3h2yx_hfr.so
+lib/libchromatix_s5k3h2yx_preview.so
+lib/libchromatix_s5k3h2yx_zsl.so
+lib/libcameraface.so
+lib/libcamerapp.so
+lib/libcam_oem_plugin.so
+# lib/libDxOAF.so
+lib/libgemini.so
+lib/libmmcamera_frameproc.so
+lib/libmmcamera_rawchipproc.so
+lib/libmmcamera_statsproc31.so
+lib/libmmipl.so
+lib/libmmjpeg.so
+lib/liboemcamera.so
+lib/libOlaEngineNew.so
+lib/libposteffect.so
+
+# GPS
+lib/hw/gps.default.so
+lib/libgps.so
+lib/libgps.utils.so
+lib/libloc_adapter.so
+lib/libloc_api_v02.so
+lib/libloc_eng.so
+lib/libloc_ext.so
+
+# Media libraries
+lib/libmmosal.so
+lib/libmm-color-convertor.so
+lib/libmmparser.so
+lib/libmmparser_divxdrmlib.so
+
+# Qualcomm/HTC common libs
+lib/libdiag.so
+lib/libdsi_netctrl.so
+lib/libdsutils.so
+lib/libidl.so
+lib/libqcci_legacy.so
+lib/libqdi.so
+lib/libqdp.so
+lib/libqmi.so
+lib/libqmi_cci.so
+lib/libqmi_client_qmux.so
+lib/libqmi_common_so.so
+lib/libqmi_csi.so
+lib/libqmi_encdec.so
+lib/libqmiservices.so
+
+# Radio
+lib/libnetmgr.so
+lib/libqc-opt.so
+lib/libril-qc-qmi-1.so
+lib/libril-qcril-hook-oem.so
+
+# Sensors
+lib/hw/sensors.msm8960.so
+
+
